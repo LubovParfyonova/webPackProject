@@ -4,3 +4,4 @@ require('./css/style.css');
 
 //_.random();
 const container = document.getElementById('root');
+container.append('Hello');
